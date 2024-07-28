@@ -16,7 +16,7 @@ const App: React.FC = () => {
     "Platinum",  // From 100,000 coins to 999,999 coins
     "Diamond",   // From 1,000,000 coins to 2,000,000 coins
     "Epic",      // From 2,000,000 coins to 10,000,000 coins
-    "Legendary", // From 10,000,000 coins to 50,000,000 coins
+    "Legend", // From 10,000,000 coins to 50,000,000 coins
     "Master",    // From 50,000,000 coins to 100,000,000 coins
     "GrandMaster", // From 100,000,000 coins to 1,000,000,000 coins
     "Lord"       // From 1,000,000,000 coins to ∞
